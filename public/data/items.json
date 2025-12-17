@@ -1,0 +1,11 @@
+[
+  {
+    "name_base":"Gojo Satoru",
+    "collection":"Jujutsu Kaisen",
+    "collection_slug":"jujutsu-kaisen",
+    "status":"En venta",
+    "price_sg":25,
+    "images":["https://example.com/gojo.jpg"],
+    "whatsapp_link":"https://wa.me/51999999999?text=Hola%20me%20interesa%20Gojo%20Satoru"
+  }
+]
